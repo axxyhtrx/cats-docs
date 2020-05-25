@@ -8,4 +8,4 @@ RUN apk add --no-cache python3 && \
     pip3 install mkdocs-material && \
     pip3 install mkdocs-minify-plugin && \
     rm -r /root/.cache
-    
+  
